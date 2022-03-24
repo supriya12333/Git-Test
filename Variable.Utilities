@@ -1,0 +1,9 @@
+Feature: My Feature
+@login 
+Scenario:Login Mail
+Given i "Login MAil"
+And i enter "Password"
+
+@mail
+Scenario:send Mail
+Given i "send Mail"
